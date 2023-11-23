@@ -1,0 +1,25 @@
+.header {
+  background-color: rgb(100, 10, 34);
+  height: 150px;
+  text-align: center;
+}
+
+.headerText {
+  margin: 0;
+  padding: 0;
+  color: white;
+  padding-top: 30px;
+}
+
+.body {
+  margin: auto;
+  max-width: 980px;
+  margin-bottom: 50px;
+}
+
+.logout {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  background-color: grey;
+}
